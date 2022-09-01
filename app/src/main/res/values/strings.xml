@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">CursoESCOM</string>
+    <string name="hello">Hola</string>
+    <string name="message">Bienvenido a mi app</string>
+</resources>
